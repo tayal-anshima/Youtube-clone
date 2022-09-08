@@ -1,0 +1,26 @@
+.searchPage{
+    flex: 0.8;
+    background-color: #f9f9f9;
+}
+.filter{
+    display: flex;
+   align-items: center;
+   margin-left: 50px;
+   margin-top: 20px;
+}
+.filtericon{
+    color: gray;
+    font-weight:lighter;
+}
+.filter>h5{
+    margin-left:5px;
+    color: gray;
+}
+.searchPage >hr{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: lightgray;
+    height:1px;
+    border: 0;
+    margin-left: 50px;
+}
